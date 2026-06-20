@@ -1,35 +1,75 @@
-💫 About Me:
-Hi 👋, I’m Nikhil Uthaiah K R
+<h1 align="center">Hi 👋, I'm Nikhil Uthaiah K R</h1>
 
-📊 Aspiring Data Analyst | BCA Graduate
+<h3 align="center">📊 Aspiring Data Analyst | SQL | Python</h3>
 
-I’m passionate about transforming raw data into meaningful insights that support business decisions. I enjoy working with SQL, Power BI, Excel, and Python to analyze data, create dashboards, and solve real-world business problems.
+<p align="center">
+  <a href="https://github.com/NIKHIL-1200">
+    <img src="https://img.shields.io/badge/GITHUB-NIKHIL--1200-111111?style=for-the-badge&logo=github&logoColor=00FF66" />
+  </a>
+  <a href="https://www.linkedin.com/in/nikhil-uthaiah-kr">
+    <img src="https://img.shields.io/badge/LINKEDIN-NIKHIL_UTHAIAH_KR-00AEEF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nikhilkumbana12@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-CONTACT_ME-FF3B30?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-🚀 About Me
+---
 
-- 🎓 BCA Graduate from Bangalore
-- 📍 Bangalore, Karnataka, India
-- 📊 Aspiring Data Analyst
-- 💡 Interested in Data Analytics, Business Intelligence, and Data Visualization
-- 📈 Passionate about extracting insights from data and building impactful dashboards
-- 🌱 Continuously improving my analytical and problem-solving skills
+## 🟢 About Me
 
+- 🎓 BCA Graduate from Bangalore  
+- 📍 Bangalore, Karnataka, India  
+- 📊 Aspiring Data Analyst  
+- 💻 I know **Python** and **SQL**  
+- 📈 Interested in Data Analytics, Business Insights, and Data Visualization  
+- 🚀 Currently building real-world Data Analyst portfolio projects  
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/NIKHIL-1200/NIKHIL-1200/blob/output/github-snake.svg)
+---
 
 
-🌐 Connect With Me
+## 💻 Tech Stack:
 
-📧 Email: nikhilkumbana12@gmail.com
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
 
-💼 LinkedIn: https://www.linkedin.com/in/nikhil-uthaiah-kr
+  <img src="https://img.icons8.com/fluency/48/github.png" width="45" height="45"/>
 
-🐙 GitHub: https://github.com/NIKHIL-1200
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45"/>
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NIKHIL-1200/NIKHIL-1200/output/github-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:nikhilkumbana12@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-FF3B30?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nikhil-uthaiah-kr">
+    <img src="https://img.shields.io/badge/LINKEDIN-00AEEF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/NIKHIL-1200">
+    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=00FF66" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my GitHub profile ⭐</h3>
 
 
 
