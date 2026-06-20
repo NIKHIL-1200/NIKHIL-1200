@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil Uthaiah K R</h1>
 
-<h3 align="center">📊 Aspiring Data Analyst | SQL | Python</h3>
+<h3 align="center">📊  Data Analyst | SQL | Python</h3>
 
 <p align="center">
   <a href="https://github.com/NIKHIL-1200">
@@ -18,8 +18,7 @@
 
 ## 🟢 About Me
 
-- 🎓 BCA Graduate   
-- 📊 Aspiring Data Analyst  
+- 🎓 BCA Graduate    
 - 📈 Interested in Data Analytics, Business Insights, and Data Visualization    
 
 
