@@ -14,18 +14,15 @@
   </a>
 </p>
 
----
+
 
 ## 🟢 About Me
 
-- 🎓 BCA Graduate from Bangalore  
-- 📍 Bangalore, Karnataka, India  
+- 🎓 BCA Graduate   
 - 📊 Aspiring Data Analyst  
-- 💻 I know **Python** and **SQL**  
-- 📈 Interested in Data Analytics, Business Insights, and Data Visualization  
-- 🚀 Currently building real-world Data Analyst portfolio projects  
+- 📈 Interested in Data Analytics, Business Insights, and Data Visualization    
 
----
+
 
 
 ## 💻 Tech Stack:
@@ -42,14 +39,14 @@
   <img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45"/>
 </p>
 
----
+
 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/NIKHIL-1200/NIKHIL-1200/output/github-snake-dark.svg" alt="snake animation" />
 </p>
 
----
+
 
 
 
@@ -67,7 +64,6 @@
   </a>
 </p>
 
----
 
 <h3 align="center">⭐ Thanks for visiting my GitHub profile ⭐</h3>
 
