@@ -40,10 +40,13 @@
 
 
 
+## Arcade Contribution Game
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NIKHIL-1200/NIKHIL-1200/output/github-snake-dark.svg" alt="snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NIKHIL-1200/NIKHIL-1200/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NIKHIL-1200/NIKHIL-1200/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/NIKHIL-1200/NIKHIL-1200/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
