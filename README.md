@@ -40,7 +40,6 @@
 
 
 
-## Arcade Contribution Game
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NIKHIL-1200/NIKHIL-1200/output/pacman-contribution-graph-dark.svg">
