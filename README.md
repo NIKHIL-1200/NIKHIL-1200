@@ -19,7 +19,10 @@
 ## 🟢 About Me
 
 - 🎓 BCA Graduate    
-- 📈 Interested in Data Analytics, Business Insights, and Data Visualization    
+- I am an entry-level data analyst passionate about data engineering, business intelligence tools, and building data-driven solutions. With a academic background in Computer Applications, I focus on mastering complex data transformations and analytical modeling. 
+
+* **Technical Focus:** Power BI, Microsoft Excel, SQL, Python, and ETL pipelines
+
 
 
 
